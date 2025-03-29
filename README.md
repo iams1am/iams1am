@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I am Siam Abdullah
 
+Welcome to my GitHub Account
 <!--
+I am currently studying Computer Science & Engineering at Brac University, Bangladesh
+
 **iams1am/iams1am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
